@@ -1,1 +1,44 @@
+main {
+    min-height: 80vh;
+}
 
+.ml-auto {
+    margin-left: auto !important;
+}
+
+h3{
+    padding: 1rem 0;
+}
+
+h1 {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+}
+
+h2 {
+    font-size: 1.4rem;
+    padding: 0.5rem 0;
+}
+
+.rating span {
+    margin: 0.1rem;
+}
+/* i added this */
+
+.custom-navbar {
+    background-color: rgb(237, 255, 65);
+    /* background-color: rgb(255, 160, 0); */
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-row {
+    margin-top: 20px;
+}
+
+.product-col {
+    margin-bottom: 20px;
+}
