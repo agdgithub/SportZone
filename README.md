@@ -4,8 +4,6 @@ SportZone is eCommerce platform built with the MERN stack & Redux.
 
 ## Features
 
--Full featured shopping cart
-
 -Product search feature
 
 -User profile with orders
