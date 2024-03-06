@@ -142,7 +142,7 @@ const OrderScreen = () => {
                                 <Link to={`/product/${item.product}`}>{item.name}</Link>
                               </Col>
                               <Col md={4}>
-                                {item.qty} x ${item.price} = ${item.qty * item.price}
+                                {item.qty} x RS.{item.price} = RS.{item.qty * item.price}
                               </Col>
                             </Row>
                           </ListGroup.Item>
@@ -163,7 +163,7 @@ const OrderScreen = () => {
                     <ListGroup.Item>
                       <Row>
                         <Col>Total</Col>
-                        <Col>${order.totalPrice}</Col>
+                        <Col>RS.{order.totalPrice}</Col>
                       </Row>
                     </ListGroup.Item>
                     {!order.isPaid && !showPaymentFields && userInfo && order.user._id === userInfo._id && (
