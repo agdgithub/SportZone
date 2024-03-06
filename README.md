@@ -2,6 +2,8 @@
 
 SportZone is eCommerce platform built with the MERN stack & Redux.
 
+Lice link - https://sportzone.onrender.com/
+
 ## Features
 
 -Product search feature
