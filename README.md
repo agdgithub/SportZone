@@ -56,3 +56,14 @@ npm run dev
 npm run server
 ```
 
+## Screenshots
+
+![Welcome to SportZone - Personal - Microsoft​ Edge 06-08-2023 23_32_43](https://github.com/agdgithub/SportZone/assets/98071875/e86c1cc5-3d9b-415b-aa0d-e5db3bad7d84)
+
+![Welcome to SportZone - Personal - Microsoft​ Edge 06-08-2023 23_33_34](https://github.com/agdgithub/SportZone/assets/98071875/4eccbf65-1d26-4786-bb84-7fbf93c5ddc6)
+
+![Welcome to SportZone - Personal - Microsoft​ Edge 06-08-2023 23_33_20](https://github.com/agdgithub/SportZone/assets/98071875/f360ecb9-1dcf-4c3d-af63-9f63d4c0877a)
+
+
+
+
