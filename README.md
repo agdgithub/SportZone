@@ -36,7 +36,6 @@ JWT_SECRET = 'abc123'
 
 ## Install Dependencies (frontend & backend)
 
-Create a .env file in then root and add the following
 
 
 ```
